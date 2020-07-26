@@ -14,5 +14,5 @@ Also needs an internet connection to download and install all the node packages.
 The first thing that we need to do is to clone or download the project on the location that we want. Once we have the project files, open the command prompt or terminal of your operating system, locate on the folder of the project and execute the following command:
 
 ```sh
-$ node install
+$ npm install
 ```
